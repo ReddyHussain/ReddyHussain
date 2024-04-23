@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning PowerBI & Altryx
 - 💞️ I’m looking to collaborate on Dashboards
 - 📫 How to reach me ... 8792808918
-- 😄 Pronouns: Reddy Hussain
+- 😄 Pronouns: Hussain
 
 <!---
 ReddyHussain/ReddyHussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
